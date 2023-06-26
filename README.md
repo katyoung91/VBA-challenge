@@ -1,6 +1,6 @@
 # VBA-challenge
-Module 2 Homework Assignment for Kat Young.
-This repo includes the Excel file where I ran the code, the export of the VBA script, and screenshots of each paage in the Excel file, and this Read me
+Module 2 Homework Assignment for Katherine Young.
+This repo includes the export of the VBA script, screenshots of each page in the Excel file where I ran the code, and this Read me.
 
 A couple notes based on the assignment:
 - My module script contains two Subs, Stonks and All_Stonks. Use All_Stonks to run the script on all sheets in the wrokbook. Stonks is the main code that runs everything in the assignment on a single sheet. All_Stonks calls the Stonks Sub to be run on each sheet in the workbook.
